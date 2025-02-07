@@ -1,1 +1,7 @@
-# Hello World Project
+#include <stdio.h>
+
+int main()
+{
+printf("hello world");
+return 0;
+}
