@@ -1,10 +1,9 @@
 #include <stdio.h>
 
 int main(){
-//printf Hello World!
+//change to hello, world!
   printf("Hello, World!/n");
-//print Nice to meet you
-printf("Nice to meet you");
+
   return 0; 
 }
 
